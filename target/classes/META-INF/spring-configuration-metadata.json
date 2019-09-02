@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "hello.config.StorageProperties",
+      "sourceType": "hello.config.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "description": "Folder location for storing files",
+      "sourceType": "hello.config.StorageProperties"
+    }
+  ],
+  "hints": []
+}
